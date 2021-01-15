@@ -29,11 +29,22 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 
 ### Publications
 
-* Ultra Reliable Communication for Robot Mobility enabled by SDN Splitting of WiFi Functions. 2018 IEEE Symposium on Computers and Communications (ISCC), Natal, Brazil, 2018. DOI: 10.1109/ISCC.2018.8538603.
+* Ultra Reliable Communication for Robot Mobility enabled by SDN Splitting of WiFi Functions.
+> 2018 IEEE Symposium on Computers and Communications (ISCC), Natal, Brazil, 2018. DOI: 10.1109/ISCC.2018.8538603.
 
-* Optical and wireless network convergence in 5G systems - an experimental approach. 2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), Barcelona, Spain, 2018. DOI: 10.1109/CAMAD.2018.8514972.
+* Optical and wireless network convergence in 5G systems - an experimental approach.
+> 2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), Barcelona, Spain, 2018. DOI: 10.1109/CAMAD.2018.8514972.
 
-* An SDN-NFV Orchestration for Reliable and Low Latency Mobility in Off-the-Shelf WiFi. ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020. DOI: 10.1109/ICC40277.2020.9148900.
+* An SDN-NFV Orchestration for Reliable and Low Latency Mobility in Off-the-Shelf WiFi.
+> 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020. DOI: 10.1109/ICC40277.2020.9148900.
+
+### Conferences and Events
+
+* Ultra Reliable Communication for Robot Mobility enabled by SDN Splitting of WiFi Functions.
+> Paper presentation at 2018 IEEE Symposium on Computers and Communications (ISCC), Natal, Brazil, 2018.
+
+* Deterministic Network Calculus: A brief tutorial.
+> Tutorial presentation at 2020 School on Systems and Networks (SSN), Vitoria, Brazil, 2020. 
 
 ```js
 // Javascript code with syntax highlighting.
