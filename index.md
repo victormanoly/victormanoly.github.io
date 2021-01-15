@@ -24,7 +24,7 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 * High reliability in WiFi mobile access with software-defined multi-connectivity.
 > The project proposes the use of multiple connectivity mechanisms in WiFi architectures through the use of software-defined networks (SDN) to obtain high-reliability communications without interruptions during the mobility of users.
 
-* FUTEBOL project (http://www.ict-futebol.org.br)
+* [FUTEBOL project](http://www.ict-futebol.org.br)
 > Creation of a federated control framework to integrate testbeds from Europe and Brazil for network researchers for academia and industry. Participation on experimentation regarding fiber-wireless convergence to enable the remote real-time control of cloud-enabled robots application with high throughput and low latency requirements.
 
 ### Publications
