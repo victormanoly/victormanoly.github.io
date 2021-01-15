@@ -2,13 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Received his B.S. degree (2011) in Telecommunications and Electronic Engineering from the Technological University of Havana, Cuba, and his M.Sc. degree (2019) in Electrical Engineering from the Federal University of Esp\'irito Santo, Brazil. He is currently working towards a Ph.D. degree in Electrical Engineering at the Federal University of Esp\'irito Santo, cooperating with the UFES' SDN Research Group. His research interests include Software-Defined Networks, Wireless Networks and Network Performance.
 
 # Header 1
 
