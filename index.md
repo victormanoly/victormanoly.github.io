@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-Received his B.S. degree (2011) in Telecommunications and Electronic Engineering from the Technological University of Havana, Cuba, and his M.Sc. degree (2019) in Electrical Engineering from the Federal University of Esp\'irito Santo, Brazil. He is currently working towards a Ph.D. degree in Electrical Engineering at the Federal University of Esp\'irito Santo, cooperating with the UFES' SDN Research Group. His research interests include Software-Defined Networks, Wireless Networks and Network Performance.
+Received his B.S. degree (2011) in Telecommunications and Electronic Engineering from the Technological University of Havana, Cuba, and his M.Sc. degree (2019) in Electrical Engineering from the Federal University of Espírito Santo, Brazil. He is currently working towards a Ph.D. degree in Electrical Engineering at the Federal University of Espírito Santo, cooperating with the UFES' SDN Research Group. His research interests include Software-Defined Networks, Wireless Networks and Network Performance.
 
 ## Education
 
@@ -46,4 +46,4 @@ More details about my publications can be found in [Google Schoolar](https://sch
 > Paper presentation at 2018 IEEE Symposium on Computers and Communications (ISCC), Natal, Brazil, 2018.
 
 * Deterministic Network Calculus: A brief tutorial.
-> Tutorial presentation at 2020 School on Systems and Networks (SSN), Vitoria, Brazil, 2020.
+> Tutorial presentation at 2020 School on Systems and Networks (SSN), Vitória, Brazil, 2020.
