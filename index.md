@@ -47,5 +47,3 @@ More details about my publications can be found in [Google Schoolar](https://sch
 
 * Deterministic Network Calculus: A brief tutorial.
 > Tutorial presentation at 2020 School on Systems and Networks (SSN), Vitoria, Brazil, 2020.
-
-[Link to another page](./another-page.html).
