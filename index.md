@@ -6,7 +6,7 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 
 ## Education
 
-* M.Sc. in Electrical Engineering
+M.Sc. in Electrical Engineering
 > Federal University of Espírito Santo (UFES), Brazil. 
 > March 2017--June 2019.
 
