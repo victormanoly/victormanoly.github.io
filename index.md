@@ -6,13 +6,14 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 
 ## Education
 
-M.Sc. in Electrical Engineering
-> Federal University of Espírito Santo (UFES), Brazil. 
-> March 2017--June 2019.
+* Ph.D. in Electrical Engineering
+> Federal University of Espírito Santo (UFES), Brazil. 2019 -- present.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* M.Sc. in Electrical Engineering
+> Federal University of Espírito Santo (UFES), Brazil. 2019.
+
+* B.Sc. in Telecommunication and Electronic Engineering
+> Technological University of Havana, Cuba. 2011.
 
 ### Header 3
 
