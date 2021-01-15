@@ -36,7 +36,7 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 > 2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), Barcelona, Spain, 2018. DOI: 10.1109/CAMAD.2018.8514972.
 
 * An SDN-NFV Orchestration for Reliable and Low Latency Mobility in Off-the-Shelf WiFi.
-> 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020. DOI: 10.1109/ICC40277.2020.9148900.
+> 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020. DOI: [10.1109/ICC40277.2020.9148900](https://ieeexplore.ieee.org/abstract/document/9148900).
 
 ### Conferences and Events
 
