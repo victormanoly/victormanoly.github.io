@@ -4,11 +4,12 @@ layout: default
 
 Received his B.S. degree (2011) in Telecommunications and Electronic Engineering from the Technological University of Havana, Cuba, and his M.Sc. degree (2019) in Electrical Engineering from the Federal University of Esp\'irito Santo, Brazil. He is currently working towards a Ph.D. degree in Electrical Engineering at the Federal University of Esp\'irito Santo, cooperating with the UFES' SDN Research Group. His research interests include Software-Defined Networks, Wireless Networks and Network Performance.
 
-# Header 1
+# Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Academic Qualifications
 
-## Header 2
+M.Sc. in Electrical Engineering
+> Federal University of Espírito Santo (UFES). Brazil. March 2017--June 2019.
 
 > This is a blockquote following a header.
 >
