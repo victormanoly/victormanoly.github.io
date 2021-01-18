@@ -38,8 +38,6 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 * An SDN-NFV Orchestration for Reliable and Low Latency Mobility in Off-the-Shelf WiFi.
 > 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020. DOI: [10.1109/ICC40277.2020.9148900](https://ieeexplore.ieee.org/abstract/document/9148900).
 
-More details about my publications can be found in [Google Schoolar](https://scholar.google.com/citations?user=5aUVzBQAAAAJ&hl).
-
 ### Conferences and Events
 
 * Ultra Reliable Communication for Robot Mobility enabled by SDN Splitting of WiFi Functions.
