@@ -15,7 +15,7 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 > Federal University of Espírito Santo (UFES), Brazil. 2019.
 
 * B.Sc. in Telecommunication and Electronic Engineering
-> Technological University of Havana, Cuba. 2011.
+> Technological University of Havana (CUJAE), Cuba. 2011.
 
 ## Research
 
