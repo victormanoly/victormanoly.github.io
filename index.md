@@ -8,8 +8,7 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 
 ## Education
 
-* Ph.D. in Electrical Engineering
-> Federal University of Espírito Santo (UFES), Brazil. 2019 -- present.
+* Ph.D. in Electrical Engineering. Federal University of Espírito Santo (UFES), Brazil. 2019 -- present.
 > "Intelligent Road Intersections: A Case for Time-Critical Digital Twins"
 The Thesis proposes for the first time a data model for a Digital Twin that traffic control centers could use to analyze what-if scenarios to obtain quick and yet dependable answers and act accordingly to improve VRUs safety at road intersections. Therefore, a second contribution is how to model and address strict latency requirements imposed by the time-critical DTs, considering the competition for the underlying infrastructure faced by DTs. Last but not least, another contribution is expected when addressing the efficiency of the network and computing resources for such DTs-constrained time-critical deadlines.
 
