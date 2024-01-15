@@ -27,7 +27,7 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 * [Implementation and management of advanced communication network means and services](https://pop-es.rnp.br) (2020-present)
 > The project aims to offer a continuous management, operation and maintenance service for the communication infrastructure and services provided by the Espírito Santo Presence Point - (PoP-ES) of the National Education and Research Network (RNP). My work at POP-ES is related to the implementation of open source private edge clouds for use in small provider scenarios, work on the design, operation and management of a LOKI architecture (Linux, Openstack, Kubernetes, Infrastructure).
 
-* [Edge Computing for Road Intersection Digital Twins in Smart Cities](https://pop-es.rnp.br) (2021-present)
+* Edge Computing for Road Intersection Digital Twins in Smart Cities (2021-present)
 > With this project, it is expected that the digital twin will enable the monitoring, control and management of intelligent road intersections, improving the performance of these systems and providing safety for vehicles, cyclists, pedestrians and others vulnerable road users.
 
 
