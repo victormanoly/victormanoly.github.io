@@ -42,7 +42,16 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 > IEEE Transactions on Network and Service Management (TNSM), 2022. DOI: [10.1109/TNSM.2022.3160875](https://ieeexplore.ieee.org/document/9738811).
 
 * Intelligent Road Intersections: A Case for Digital Twins.
-> Brazilian Workshop on Smart Cities, 2022. DOI: [10.5753/wbci.2022.223311](https://sol.sbc.org.br/index.php/wbci/article/view/20453).
+> Brazilian Workshop on Smart Cities (WBCI), 2022. DOI: [10.5753/wbci.2022.223311](https://sol.sbc.org.br/index.php/wbci/article/view/20453).
+
+* On Latency Bounds for ROS Messaging in Cloud-Enabled Mobile Robots.
+> 2022 IEEE 8th World Forum on Internet of Things (WF-IoT), 2022. DOI: [10.1109/WF-IoT54382.2022.10152236](https://ieeexplore.ieee.org/abstract/document/10152236).
+
+* Make Before Degrade: A Context-Aware Software-Defined WiFi Handover.
+> Advanced Information Networking and Applications (AINA), 2023. DOI: [10.1007/978-3-031-28451-9_49](https://link.springer.com/chapter/10.1007/978-3-031-28451-9_49).
+
+* Wi-Fi faces the new wireless ecosystem: a critical review.
+> Annals of Telecommunications, 2023. DOI: [10.1007/s12243-023-00995-2](https://link.springer.com/article/10.1007/s12243-023-00995-2).
 
 ### Conferences and Events
 
