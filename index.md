@@ -8,17 +8,11 @@ Received his B.S. degree (2011) in Telecommunications and Electronic Engineering
 
 ## Education
 
-* Ph.D. in Electrical Engineering. Federal University of Espírito Santo (UFES), Brazil. 2019 -- present.
+* Ph.D. in Electrical Engineering. "Intelligent Road Intersections: A Case for Time-Critical Digital Twins"
 > Federal University of Espírito Santo (UFES), Brazil. 2019 -- present.
 
-"Intelligent Road Intersections: A Case for Time-Critical Digital Twins"
-The Thesis proposes for the first time a data model for a Digital Twin that traffic control centers could use to analyze what-if scenarios to obtain quick and yet dependable answers and act accordingly to improve VRUs safety at road intersections. Therefore, a second contribution is how to model and address strict latency requirements imposed by the time-critical DTs, considering the competition for the underlying infrastructure faced by DTs. Last but not least, another contribution is expected when addressing the efficiency of the network and computing resources for such DTs-constrained time-critical deadlines.
-
-* M.Sc. in Electrical Engineering
+* M.Sc. in Electrical Engineering. ["High reliability in WiFi mobile access with software-defined multi-connectivity."](https://ele.ufes.br/pt-br/pos-graduacao/PPGEE/detalhes-da-tese?id=12128)
 > Federal University of Espírito Santo (UFES), Brazil. 2019.
-
-"High reliability in WiFi mobile access with software-defined multi-connectivity."
-The [Dissertation](https://ele.ufes.br/pt-br/pos-graduacao/PPGEE/detalhes-da-tese?id=12128) proposed the use of multiple connectivity mechanisms in WiFi architectures through the use of software-defined networks (SDN) to obtain high-reliability communications without interruptions during the mobility of users. 
 
 * B.Sc. in Telecommunication and Electronic Engineering
 > Technological University of Havana (CUJAE), Cuba. 2011.
