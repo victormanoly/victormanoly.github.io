@@ -16,7 +16,8 @@ The Thesis proposes for the first time a data model for a Digital Twin that traf
 
 * M.Sc. in Electrical Engineering
 > Federal University of Espírito Santo (UFES), Brazil. 2019.
-> "High reliability in WiFi mobile access with software-defined multi-connectivity."
+
+"High reliability in WiFi mobile access with software-defined multi-connectivity."
 The [Dissertation](https://ele.ufes.br/pt-br/pos-graduacao/PPGEE/detalhes-da-tese?id=12128) proposed the use of multiple connectivity mechanisms in WiFi architectures through the use of software-defined networks (SDN) to obtain high-reliability communications without interruptions during the mobility of users. 
 
 * B.Sc. in Telecommunication and Electronic Engineering
